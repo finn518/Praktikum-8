@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pengeluaran</string>
+    <string-array name="song">
+    </string-array>
+    <string-array name="artis">
+    </string-array>
+</resources>
